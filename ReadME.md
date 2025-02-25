@@ -12,8 +12,8 @@ This is a Django application that uses **Djongo** to connect and interact with *
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/gishwinantony/DJONGO.git
+cd DJONGO
 ```
 
 ### 2️⃣ **Create a Virtual Environment (Optional but Recommended)**
